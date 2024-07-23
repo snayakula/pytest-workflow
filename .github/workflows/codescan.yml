@@ -1,4 +1,4 @@
-name: SonarCloud Scan rx-ai-chat
+name: SonarCloud Scan
 
 on: [push]
 
